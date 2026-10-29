@@ -12,7 +12,7 @@ title                    : "Marios Kalomenopoulos" #"Your Name / Site Title"
 title_separator          : "-"
 name                     : &name "Marios Kalomenopoulos"
 description              : &description "Postdoctoral Researcher at the University of Nevada, Las Vegas"
-url                      : https://mariosnt.github.io # https://marioskalomenopoulos.com the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://marioskalomenopoulos.com #https://mariosnt.github.io the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "MariosNT/mariosnt.github.io"
 
