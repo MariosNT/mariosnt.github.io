@@ -12,9 +12,9 @@ paperurl: 'http://academicpages.github.io/files/Marios_Kalomenopoulos_CV.pdf'
 
 Education
 ======
-* Ph.D in Gravitational Waves Astrophysics and Cosmology, University of Edinburgh, 2018-2023
-* M.Sc. in Theoretical Physics, University of Edinburgh, 2016-2017
-* B.Sc. in Physics, National and Kapodistrian University of Athens, 2015
+* Ph.D in Gravitational Waves Astrophysics and Cosmology, University of Edinburgh
+* M.Sc. in Theoretical Physics, University of Edinburgh
+* B.Sc. in Physics, National and Kapodistrian University of Athens
 
 Work experience
 ======
